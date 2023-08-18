@@ -1,7 +1,7 @@
 # chorus-e2e-test
 A tech demo for dm end to end encryption with Chorus
 
-![](https://raw.githubusercontent.com/kozabrada123/chorus-e2e-test/main/assets/demo.mp4)
+https://github.com/kozabrada123/chorus-e2e-test/assets/59031733/ede9a062-0864-4924-a1de-af8debb26ebb
 
 ## Disclaimer
 
